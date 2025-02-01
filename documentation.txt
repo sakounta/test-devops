@@ -1,5 +1,4 @@
 Ajout de nouvelle fonctionalité
 Ajout de la Doc-4
 Avec msj de doc complete
-Àjout Doc-5
->>>>>>> f639810 (feat-doc-5: change doc file)
+Ajout Doc-5
